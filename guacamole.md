@@ -3,7 +3,7 @@
 Notice the "preview" menu
 
 Ingredients:
-- 2 avos
+- 3 avos
 - a lime
 - some onion
 - lil bit of salt
